@@ -1,0 +1,5 @@
+MY FRONT END RESOLUTION (July, 2024)
+1.  Learn Flexbox & Grid
+2.  Review Layouting
+3.  Finish mock-up design for ClockMe
+4.  Finish ClockMe front-end website
