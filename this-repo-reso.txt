@@ -4,3 +4,7 @@ MY FRONT END RESOLUTION (July, 2024)
 3.  Finish mock-up design for ClockMe
 4.  Finish ClockMe front-end website
 5.  Start first app for Porto
+
+misalnya aku tambahin 1 line ini
+dan line ini
+sama line ini juga ya
